@@ -51,4 +51,4 @@ The skill enables an agent to drive browser automation via the `playwright-cli` 
 ## 📚 Resources
 
 - Playwright Test docs: https://playwright.dev/docs/intro
-- Playwright CLI docs: https://playwright.dev/docs/cli
+- Playwright CLI docs: https://github.com/microsoft/playwright-cli
